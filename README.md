@@ -1,5 +1,5 @@
 # 👋 Salom! Men Ozoda Aminjonova  
-💻 Data | Mentor | IT Enthusiast  
+💻 Data analyst | Mentor | IT Enthusiast  
 
 🚀 **Men haqimda**  
 - 🎓 PDP University-da Data analitika 2-kurs talabasiman. 
